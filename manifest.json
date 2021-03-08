@@ -14,6 +14,21 @@
             "name": "1Dictionary",
             "description": "",
             "default_value": "1d"
+        },
+        {
+            "id": "matching",
+            "type": "text",
+            "name": "Matching method",
+            "description": "Matching method. Choose 'regex' if you feel 'fuzzy' is too slow",
+            "default_value": "fuzzy",
+            "options": ["fuzzy", "regex"]
+        },
+        {
+            "id": "vocabulary",
+            "type": "text",
+            "name": "Active vocabulary",
+            "description": "Active vocabularies: comma-delimted text. Supported vocabularies: english_uk, english, deutsch, espanol, francais, italiano, nederlands, norsk",
+            "default_value": "english_uk, english"
         }
     ]
 }
