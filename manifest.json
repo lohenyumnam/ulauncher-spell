@@ -13,7 +13,7 @@
             "type": "keyword",
             "name": "1Dictionary",
             "description": "",
-            "default_value": "1d"
+            "default_value": "spell"
         },
         {
             "id": "matching",
