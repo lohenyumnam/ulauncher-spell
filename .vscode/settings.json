@@ -1,0 +1,6 @@
+{
+    "cSpell.ignoreWords": [
+        "ulauncher"
+    ],
+    "python.formatting.provider": "black"
+}
